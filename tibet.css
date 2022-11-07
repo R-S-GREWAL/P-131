@@ -1,0 +1,18 @@
+body
+{
+    background-color:#020f39;
+}
+#tibet
+{
+    width: 900px;
+    height: 530px;
+}
+#tibettag 
+{
+    font-size: 30px;
+    color: #020f39;
+    width: 30%;
+    margin: 0px;
+    box-shadow: 7px 7px 7px #09278b;
+    font-family: 'Pacifico', cursive;
+}

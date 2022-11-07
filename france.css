@@ -1,0 +1,18 @@
+body
+{
+    background-color: rgb(232, 177, 95);
+}
+#france
+{
+    width: 900px;
+    height: 530px;
+}
+#francetag 
+{
+    font-size: 30px;
+    color: rgb(51, 27, 9);
+    width: 30%;
+    margin: 0px;
+    box-shadow: 7px 7px 7px #09278b;
+    font-family: 'Pacifico', cursive;
+}
